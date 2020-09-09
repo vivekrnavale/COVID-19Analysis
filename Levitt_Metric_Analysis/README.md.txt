@@ -1,1 +1,0 @@
-# This is a Levitt-Metric analysis of the COVID-19 Pandemic
